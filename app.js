@@ -50,7 +50,7 @@ const resume = {
       "dates": "2003 to present",
       "links": [
         "https://roderickshoolbraid.bandcamp.com/",
-        "https://interstellar-packages.netlify.app/"
+        "https://xudor.github.io/_IP2/"
       ]
     },
     {
